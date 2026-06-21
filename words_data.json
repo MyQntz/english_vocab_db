@@ -1,1 +1,22 @@
-
+]
+  {
+    "id": "meb_2_1_001",
+    "word": "cat",
+    "translation": "kedi",
+    "part_of_speech": "noun",
+    "grade_level": 2,
+    "unit_no": 1,
+    "example_sentence": "This is a cute cat.",
+    "example_translation": "Bu sevimli bir kedi."
+  },
+  {
+    "id": "gen_a1_001",
+    "word": "accomplish",
+    "translation": "başarmak",
+    "part_of_speech": "verb",
+    "grade_level": 0, 
+    "unit_no": 0,
+    "example_sentence": "You can accomplish anything if you work hard.",
+    "example_translation": "Sıkı çalışırsan her şeyi başarabilirsin."
+  }
+[
