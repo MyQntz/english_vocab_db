@@ -1,22 +1,32 @@
-]
+[
   {
-    "id": "meb_2_1_001",
-    "word": "cat",
-    "translation": "kedi",
+    "id": "meb_3_1_001",
+    "word": "greeting",
+    "translation": "selamlaşma",
     "part_of_speech": "noun",
-    "grade_level": 2,
+    "grade_level": 3,
     "unit_no": 1,
-    "example_sentence": "This is a cute cat.",
-    "example_translation": "Bu sevimli bir kedi."
+    "example_sentence": "A warm greeting makes people happy.",
+    "example_translation": "Sıcak bir selamlaşma insanları mutlu eder."
   },
   {
-    "id": "gen_a1_001",
-    "word": "accomplish",
-    "translation": "başarmak",
-    "part_of_speech": "verb",
-    "grade_level": 0, 
-    "unit_no": 0,
-    "example_sentence": "You can accomplish anything if you work hard.",
-    "example_translation": "Sıkı çalışırsan her şeyi başarabilirsin."
+    "id": "meb_3_2_001",
+    "word": "family",
+    "translation": "aile",
+    "part_of_speech": "noun",
+    "grade_level": 3,
+    "unit_no": 2,
+    "example_sentence": "I love my family.",
+    "example_translation": "Ailemi seviyorum."
+  },
+  {
+    "id": "meb_3_2_002",
+    "word": "uncle",
+    "translation": "amca / dayı",
+    "part_of_speech": "noun",
+    "grade_level": 3,
+    "unit_no": 2,
+    "example_sentence": "My uncle is very tall.",
+    "example_translation": "Amcam çok uzundur."
   }
-[
+]
